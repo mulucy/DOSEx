@@ -6,7 +6,7 @@ Follow these steps for using dos mode!
 
 .:SETUP:.
 
-1. First Start the DOSEx SETUP.exe with Administrator.
+1. First Start the main\DOSEx SETUP.exe with Administrator.
 2. Select your OS Version.
 3. Click the button.
 4. If you want to try click yes. ( Message Box )
@@ -27,5 +27,6 @@ or
 
 .:SRC:.
 Setup is Coded in C# VS 2010
+Source Code in src folder.
 
 
